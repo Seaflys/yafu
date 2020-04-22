@@ -22,7 +22,7 @@ code to the public domain.
 #include "arith.h"
 #include "gmp.h"
 #include "gmp_xface.h"
-#include "mpz_aprcl.h"
+#include "../top/aprcl/mpz_aprcl.h"
 
 /*
 implements some more advanced arithmatic and/or number

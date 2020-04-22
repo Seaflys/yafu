@@ -31,7 +31,7 @@ Implements an arbitrary precision calculator.
 #include "qs.h"
 #include "factor.h"
 #include "common.h"
-#include "mpz_aprcl.h"
+#include "./aprcl/mpz_aprcl.h"
 
 char opchar[10] = {'=','<','>','+','-','*','/','%','^'};
 char imms[3] = {'!','#','-'};
